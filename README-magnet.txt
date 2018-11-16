@@ -16,4 +16,4 @@ $ sudo -s
 Setup and Deploy:
 
 # cp /usr/local/etc/turnserver.conf.default /etc/turnserver.conf
-# nohup bin/turnserver &
+# nohup /usr/local/bin/turnserver &
